@@ -22,8 +22,8 @@ Importance: Tailoring your pitch ensures relevance and persuasion.
 
 Importance: Defines the need for your software.
 
-## Effective Communication: Use specific examples, statistics, and user stories.
-## Example: "Small businesses struggle with managing their social media presence, leading to missed marketing opportunities and inconsistent branding."
+** Effective Communication: Use specific examples, statistics, and user stories.
+Example: "Small businesses struggle with managing their social media presence, leading to missed marketing opportunities and inconsistent branding."
 
 3. Solution Description:
    - What key elements should be included when describing the solution in your pitch? Provide an example of a concise and compelling solution description.
